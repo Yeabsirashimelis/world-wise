@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "694d",
+      "cityName": "Addis Ababa",
+      "country": "Ethiopia",
+      "emoji": "🇪🇹",
+      "date": "2024-03-23T02:15:12.987Z",
+      "notes": "grihoigkl",
+      "position": {
+        "lat": 9.0192,
+        "lng": 38.7525
+      }
+    },
+    {
+      "id": "de0d",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-23T07:21:04.360Z",
+      "notes": "great\n",
+      "position": {
+        "lat": "48.85002761226212",
+        "lng": "2.3669092994646372"
+      }
+    },
+    {
+      "id": "c9e5",
+      "cityName": "Kemberg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-03-24T21:17:57.065Z",
+      "notes": "gkjfe",
+      "position": {
+        "lat": "51.713416052417614",
+        "lng": "12.54638671875"
+      }
+    },
+    {
+      "id": "dfe1",
+      "cityName": "Wittenberge",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-03-24T21:19:02.378Z",
+      "notes": "e",
+      "position": {
+        "lat": "53.014783245859235",
+        "lng": "11.77734375"
+      }
+    },
+    {
+      "id": "8b71",
+      "cityName": "Ranes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-15T06:01:25.610Z",
+      "notes": "euwyruio",
+      "position": {
+        "lat": "48.66051367741216",
+        "lng": "-0.21687658806992752"
+      }
+    },
+    {
+      "id": "88f7",
+      "cityName": "Messeme",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-15T06:03:36.870Z",
+      "notes": "gAKHSJ,",
+      "position": {
+        "lat": "47.013670097551184",
+        "lng": "0.15675568600563408"
+      }
+    },
+    {
+      "id": "043a",
+      "cityName": "Neuvy-Saint-Sepulchre",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-15T06:03:58.476Z",
+      "notes": "VKSJA",
+      "position": {
+        "lat": "46.57633286271968",
+        "lng": "1.804185038748152"
+      }
+    },
+    {
+      "id": "fa4f",
+      "cityName": "Vabres",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-15T06:04:43.324Z",
+      "notes": "KJLKJ",
+      "position": {
+        "lat": "45.02990900455089",
+        "lng": "3.1825977181775356"
+      }
+    },
+    {
+      "id": "d988",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-15T06:12:34.085Z",
+      "notes": "KKJL",
+      "position": {
+        "lat": "40.36748443385891",
+        "lng": "-3.714242260444956"
+      }
+    }
+  ]
+}
